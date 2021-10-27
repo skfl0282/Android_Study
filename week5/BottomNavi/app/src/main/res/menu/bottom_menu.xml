@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_moon1"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_1_24"
+        android:title="달1"/>
+
+    <item
+        android:id="@+id/action_moon2"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_2_24"
+        android:title="달2"/>
+
+    <item
+        android:id="@+id/action_moon3"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_3_24"
+        android:title="달3"/>
+
+    <item
+        android:id="@+id/action_moon4"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_4_24"
+        android:title="달4"/>
+
+    <item
+        android:id="@+id/action_moon5"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_5_24"
+        android:title="달5"/>
+</menu>
